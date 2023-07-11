@@ -175,3 +175,32 @@ main{
     height: 396px;
 }
 
+.banner_2{
+    background-image: url("../images/Rectangle\ 9.png");
+    margin-top: 130px;
+    text-align: center;
+}
+.banner_2{
+}
+.banner_2 h2{
+color: #272727;
+text-align: center;
+font-size: 40px;
+font-weight: 800;
+margin-top: 120px;
+align-items: center;
+padding-top: 70px;
+}
+.banner_2 #input_info{
+    width: 700px;
+    height: 64px;
+    background-color: #FFF;
+    border-radius: 8px;
+    margin-bottom: 100px;
+    border: 0;
+    margin-top: 100px;
+}
+
+#button{
+    margin-left:10px;
+}
