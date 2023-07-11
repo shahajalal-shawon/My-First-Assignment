@@ -204,3 +204,38 @@ padding-top: 70px;
 #button{
     margin-left:10px;
 }
+
+.footer_dsc{
+    margin-top: 120px;
+    background: #111010;
+    
+    padding-bottom: 200px;
+
+}
+.footer_dsc h1{
+    margin-bottom: 25px;
+    padding-top: 120px;
+    text-align: center;
+    color: #E55473;
+    font-size: 48px;
+    font-weight: 800;
+}
+.footer_dsc span{
+    color: #fff;
+}
+.footer_dsc p{
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 25px;
+}
+.footer_dsc .copyright{
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    
+}
+
+
