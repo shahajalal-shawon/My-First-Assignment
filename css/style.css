@@ -71,6 +71,7 @@
     margin-top: 50px;
     gap: 24px;
     align-items: center;
+    margin-bottom: 100px;
 }
 main{
     max-width: 1140px;
@@ -111,4 +112,31 @@ main{
     text-decoration: underline;
 }
 
-
+.container_2{
+    /* padding: 100px 100px ; */
+    width: 100%;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    margin-top: 150px;
+    margin-bottom: 500px;
+    display: flex;
+    justify-content: space-between;
+    /* align-items: center; */
+    
+}
+.delevery_part p{
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+    font-size: 24px;
+    font-weight: 600;
+}
+.delevery_part img{
+    height: 88px;
+    width: 88px;
+    margin: 0 auto;
+    text-align: center;
+}
+.delevery_part{
+    text-align: center;
+    padding:70px 40px  ;
+}
